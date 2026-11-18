@@ -1,4 +1,4 @@
-# Jungle Hawks 2.5 - 1946 base
+# Pingu's Jungle Hawks v2.5 - base pack
 
 The base pack the JH Installer downloads for everyone: Jungle Hawks without any War Thunder files.
 The WT parts are built on the player's own PC from their own install (Cockpit Overlay Builder / WT asset generator).
